@@ -10,7 +10,7 @@ updates:
     schedule:
       interval: "daily"
   
-  - package-ecosystem: "nuget" # See documentation for possible values
+  - package-ecosystem: "nuget" #  See documentation for possible values
     directory: "/ReferProjectTwo" # Location of package manifests
     schedule:
       interval: "daily"
